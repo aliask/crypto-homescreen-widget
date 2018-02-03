@@ -2,6 +2,8 @@
 
 Small PHP script to output a high resolution image for embedding on a smartphone homescreen, using the coinmarketcap public API.
 
+Useful when used by [URL Image Widget](https://play.google.com/store/apps/details?id=com.weite_welt.urlimagewidget&hl=en) on Android devices.
+
 ## Options
 
 Options are specified as GET parameters to the URI. eg `/homescreen.php?convert=AUD&ticker3=ripple`
